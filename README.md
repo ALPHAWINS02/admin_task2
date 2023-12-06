@@ -1,7 +1,7 @@
-# admin_task2
+# admin_task2 (https://alphawins02.github.io/admin_task2/)--hosted link
 
 You work at a startup that is building an interface for admins to see and delete users. The users will be provided via an API. Your job is to build out a working Ul.
-See image below for reference.
+**See image below for reference.**
 ![WhatsApp Image 2023-12-06 at 15 03 28_3c672a1e](https://github.com/ALPHAWINS02/admin_task2/assets/75584422/7028080b-9d48-46dd-8d00-bc57dcb9d6e0)
 
 
@@ -20,3 +20,8 @@ Pagination must update based on search/filtering. If there are 25 records for ex
 11. On clicking edit action in a row, it should be editable in the row itself.
 12. feel free to use any libraries.
 13. On executing, your application should be running successfully on deployed on vercel, netlify or any similar platform.
+
+###demo
+**final outcome**
+![image](https://github.com/ALPHAWINS02/admin_task2/assets/75584422/c7cdead4-2201-4503-8a67-4b21dbb6a299)
+
